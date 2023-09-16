@@ -10,7 +10,7 @@ body{
   align-items: center;
   height: 100dvh;
   text-align: center;
-  background: url() no-repeat cover center/cover;
+  background-image: url(background\ book\ pic.png);
 }
 .container{
   width: 550px;
